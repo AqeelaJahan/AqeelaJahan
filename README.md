@@ -3,11 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqeelajahan&label=Profile%20views&color=0e75b6&style=flat" alt="aqeelajahan" /> </p>
 
-- 🌱 I’m currently learning **Java,JavaScript,React.**
+- 👩‍💻 I’m currently learning **Java,JavaScript.**
 
-- 👯 I’m looking to collaborate on **Youtube.**
+- 🌱 I learned C, HTML, and CSS.
+
+- 👯 I’m looking to collaborate on learning programs for website creation.**
 
 - 👀 Now I'm Interesting to create **Webpages**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
