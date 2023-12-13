@@ -54,4 +54,4 @@ src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c
 </p>
 
 
-<p>&nbsp;<img align="center"src="https://githubreadmestats.vercel.app/apiusername=aqeelajahan&show_icons=true&locale=en" alt="aqeeaJahan" /></p>
+<p>&nbsp;<img align="center" src="https://githubreadmestats.vercel.app/apiusername=aqeelajahan&show_icons=true&locale=en" alt="aqeeaJahan"/></p>
