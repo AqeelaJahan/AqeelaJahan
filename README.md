@@ -5,7 +5,7 @@ src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqeelajahan&label=Profile%20views&color=0e75b6&style=flat" alt="aqeelajahan" /> </p>
 
-🎓 I'm a student at National.<br>
+🎓 I'm a student at Uva Wellassa University of Sri Lanka.<br>
 
 👩‍💻 I’m currently learning React, Java.<br>
 
@@ -13,7 +13,7 @@ src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c
 
 👯 I’m looking to collaborate on learning programs for website creation.<br>
 
-👀 Now I'm Interesting to create **Front-end Development**
+👀 Now I Interested to create **Front-end Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
