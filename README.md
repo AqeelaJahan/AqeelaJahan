@@ -6,9 +6,13 @@ src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqeelajahan&label=Profile%20views&color=0e75b6&style=flat" alt="aqeelajahan" /> </p>
 
 🎓 I'm a student at National.
+
 👩‍💻 I’m currently learning React, Java.
+
 🌱 I learned  HTML, CSS, Javascript, Flutter.
+
 👯 I’m looking to collaborate on learning programs for website creation.
+
 👀 Now I'm Interesting to create **Front-end Development**
 
 <h3 align="left">Connect with me:</h3>
